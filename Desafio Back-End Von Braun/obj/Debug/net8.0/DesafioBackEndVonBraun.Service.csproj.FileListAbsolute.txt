@@ -1,0 +1,4 @@
+C:\Users\jpmsa\Desktop\Testes\Desafio Back-End Von Braun\obj\Debug\net8.0\DesafioBackEndVonBraun.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpmsa\Desktop\Testes\Desafio Back-End Von Braun\obj\Debug\net8.0\DesafioBackEndVonBraun.Service.AssemblyInfoInputs.cache
+C:\Users\jpmsa\Desktop\Testes\Desafio Back-End Von Braun\obj\Debug\net8.0\DesafioBackEndVonBraun.Service.AssemblyInfo.cs
+C:\Users\jpmsa\Desktop\Testes\Desafio Back-End Von Braun\obj\Debug\net8.0\DesafioBackEndVonBraun.Service.csproj.CoreCompileInputs.cache

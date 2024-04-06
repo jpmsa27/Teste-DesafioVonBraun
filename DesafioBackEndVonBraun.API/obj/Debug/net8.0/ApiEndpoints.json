@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "DesafioBackEndVonBraun.API.Controllers.DeviceController",
+    "Method": "CreateDeviceAsync",
+    "RelativePath": "Device/create-test-device",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDTO",
+        "Type": "DesafioBackEndVonBraun.Service.DTOs.Device.DeviceDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesafioBackEndVonBraun.API.Controllers.DeviceController",
+    "Method": "GetDevice",
+    "RelativePath": "Device/get-test-device/{deviceId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "deviceId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesafioBackEndVonBraun.API.Controllers.DeviceController",
+    "Method": "GetDevicesAsync",
+    "RelativePath": "Device/get-test-devices",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesafioBackEndVonBraun.API.Controllers.UserController",
+    "Method": "CreateUser",
+    "RelativePath": "User/create-test-user",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDTO",
+        "Type": "DesafioBackEndVonBraun.Service.DTOs.Auth.UserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DesafioBackEndVonBraun.API.Controllers.UserController",
+    "Method": "GetUser",
+    "RelativePath": "User/get-test-user/{cpf}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cpf",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
